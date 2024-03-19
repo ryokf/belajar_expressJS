@@ -1,0 +1,19 @@
+{
+  "name": "belajar_expressjs",
+  "version": "1.0.0",
+  "description": "belajar expressJS",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "author": "ryokf",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.3"
+  },
+  "devDependencies": {
+    "supertest": "^6.3.4"
+  }
+}
